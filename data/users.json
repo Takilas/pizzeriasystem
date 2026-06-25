@@ -8,25 +8,33 @@
   {
     "id": "d5ddb0ba-b664-4054-bbf5-f6680f0899ce",
     "login": "joel.morissette",
-    "password": "xfey88xclv16675",
-    "role": "CUSTOMER"
+    "password": "xfey88xclv16675"
   },
   {
     "id": "653a3739-4459-44eb-bcaa-1b6e570efd6e",
     "login": "mariann.swift",
-    "password": "pd1xq9t1e",
-    "role": "CUSTOMER"
+    "password": "pd1xq9t1e"
   },
   {
     "id": "c70b0c88-d213-4fd0-b197-14d0011b9c85",
     "login": "leah.denesik",
-    "password": "58gc0z81h61pd6ep",
-    "role": "CUSTOMER"
+    "password": "58gc0z81h61pd6ep"
   },
   {
     "id": "f7c76c39-4517-4b10-b129-646d681d6126",
     "login": "otha.mcglynn",
-    "password": "ufqk4btjs84wt734",
-    "role": "CUSTOMER"
+    "password": "ufqk4btjs84wt734"
+  },
+  {
+    "id": "1da6349c-9713-46b3-81c0-273fa0f8cee4",
+    "login": "artem",
+    "password": "12345",
+    "role": "USER"
+  },
+  {
+    "id": "8a3b592d-1cd6-4e03-a8ce-a7b5710c0ec9",
+    "login": "artem",
+    "password": "12345",
+    "role": "USER"
   }
 ]

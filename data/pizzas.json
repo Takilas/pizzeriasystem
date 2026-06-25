@@ -1,27 +1,37 @@
 [
   {
     "id": "b7bba70f-5272-4faa-9037-3c0ed76d8360",
-    "name": "Cauliflower Penne Pizza",
+    "name": "М\u0027ясна",
     "price": 477.63
   },
   {
     "id": "252fb11e-3e21-427d-99f1-6689a052707c",
-    "name": "Cheeseburger Pizza",
+    "name": "Чотири сири",
     "price": 116.91
   },
   {
     "id": "087a5351-0d1d-4600-890a-b263de48e725",
-    "name": "Tiramisù Pizza",
+    "name": "Маргарита",
     "price": 275.48
   },
   {
     "id": "606deb06-fd70-4235-8a38-901e512804f5",
-    "name": "Poke Pizza",
+    "name": "Мексиканська",
     "price": 326.87
   },
   {
     "id": "ff5d855e-bde3-4a57-bc20-f221745c87b3",
-    "name": "Ricotta Stuffed Ravioli Pizza",
+    "name": "Гавайська",
     "price": 339.08
+  },
+  {
+    "id": "2b955d18-ef5d-416b-bcdf-e7160f5e592e",
+    "name": "Пепероні",
+    "price": 250.0
+  },
+  {
+    "id": "df0e1b3e-126e-4d1a-bb0d-637f2961d2bd",
+    "name": "Пепероні",
+    "price": 250.0
   }
 ]
