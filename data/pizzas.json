@@ -1,0 +1,27 @@
+[
+  {
+    "id": "b7bba70f-5272-4faa-9037-3c0ed76d8360",
+    "name": "Cauliflower Penne Pizza",
+    "price": 477.63
+  },
+  {
+    "id": "252fb11e-3e21-427d-99f1-6689a052707c",
+    "name": "Cheeseburger Pizza",
+    "price": 116.91
+  },
+  {
+    "id": "087a5351-0d1d-4600-890a-b263de48e725",
+    "name": "Tiramisù Pizza",
+    "price": 275.48
+  },
+  {
+    "id": "606deb06-fd70-4235-8a38-901e512804f5",
+    "name": "Poke Pizza",
+    "price": 326.87
+  },
+  {
+    "id": "ff5d855e-bde3-4a57-bc20-f221745c87b3",
+    "name": "Ricotta Stuffed Ravioli Pizza",
+    "price": 339.08
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "42920ac0-26e7-4b7c-b88a-1ad1bbcd2319",
+    "login": "admin_artem",
+    "password": "superpass123",
+    "role": "ADMIN"
+  },
+  {
+    "id": "d5ddb0ba-b664-4054-bbf5-f6680f0899ce",
+    "login": "joel.morissette",
+    "password": "xfey88xclv16675",
+    "role": "CUSTOMER"
+  },
+  {
+    "id": "653a3739-4459-44eb-bcaa-1b6e570efd6e",
+    "login": "mariann.swift",
+    "password": "pd1xq9t1e",
+    "role": "CUSTOMER"
+  },
+  {
+    "id": "c70b0c88-d213-4fd0-b197-14d0011b9c85",
+    "login": "leah.denesik",
+    "password": "58gc0z81h61pd6ep",
+    "role": "CUSTOMER"
+  },
+  {
+    "id": "f7c76c39-4517-4b10-b129-646d681d6126",
+    "login": "otha.mcglynn",
+    "password": "ufqk4btjs84wt734",
+    "role": "CUSTOMER"
+  }
+]
