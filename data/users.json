@@ -36,5 +36,41 @@
     "login": "artem",
     "password": "12345",
     "role": "USER"
+  },
+  {
+    "id": "1ad7dccf-40d5-487d-8513-0575a58488b3",
+    "login": "artem",
+    "password": "12345",
+    "role": "USER"
+  },
+  {
+    "id": "0004cafd-be6c-4798-a06b-418e0b53ba49",
+    "login": "admin",
+    "password": "admin",
+    "role": "ADMIN"
+  },
+  {
+    "id": "aac611a5-a6ee-4675-a7b1-e48867ed3f1c",
+    "login": "sasha",
+    "password": "123123",
+    "role": "USER"
+  },
+  {
+    "id": "81d683f7-9472-4be2-afa5-ace7399d8203",
+    "login": "flars.xd@gmail.com",
+    "password": "123123",
+    "role": "USER"
+  },
+  {
+    "id": "92860c64-a0ff-401b-9cb1-71a08a7d3316",
+    "login": "123123",
+    "password": "123123",
+    "role": "USER"
+  },
+  {
+    "id": "d7e863d9-b72c-42b4-8435-63192121f3d6",
+    "login": "lloading1090xd@gmail.com",
+    "password": "123123",
+    "role": "USER"
   }
 ]
